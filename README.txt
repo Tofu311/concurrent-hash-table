@@ -1,33 +1,25 @@
-PA#2
-COP4600 - Spring
+Programming Assignment #2
+COP4600 – Spring 2025
 Group 3
-April 10th 2025
+April 10, 2025
 
-Authors:
+Contributors:
+
 Eric Squitieri
 -
 -
 -
 
+Build & Run Instructions
+Extract the contents of G3-PA2.zip into a new folder.
 
-Compilation and Execution instructions
---------------------------------------
-Unzip G3-PA2.zip into a new folder
-Open a command line terminal (powershell, unix terminal, etc)
-Locate the folder you unzipped into using cd commands in the terminal
+Open a terminal window
 
-To compile the program, type: 
-	make
-and press enter.
-
-the code should now be compiled into the executable file, the important file is chash.exe
+Navigate to the unzipped folder using the cd command.
+To compile the project:
+->  make
+To run the program:
+-> ./chash.exe
 
 
-to run the program, type:
-	./chash.exe
-and press enter.
-
-The program will run and output a new file into its own directory, "output.txt"
-
-Note that repeated runs of chash.exe will yield varying output.exe results, which
-is expected due to the unpredictable nature of scheduling and thread execution.
+This will execute the program using the commands.txt file and produce an output file named output.txt in the same directory.
