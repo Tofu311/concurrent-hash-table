@@ -1,0 +1,11 @@
+threads,10,0
+insert,Ken Levine,55000
+insert,Amy Hennig,60000
+insert,Markus Persson,62000
+delete,Amy Hennig,0
+insert,Todd Howard,58000
+insert,Cliff Bleszinski,57000
+insert,Jade Raymond,56500
+delete,Ken Levine,0
+insert,Brenda Romero,59000
+search,Amy Hennig,0
