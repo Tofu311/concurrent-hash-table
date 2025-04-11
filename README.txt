@@ -6,9 +6,9 @@ April 10, 2025
 Contributors:
 
 Eric Squitieri
--
+Yauheni Khvashcheuski
 Aaron Nogues
--
+Tho Pham
 
 Build & Run Instructions
 Extract the contents of G3-PA2.zip into a new folder.
